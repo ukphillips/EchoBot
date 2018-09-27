@@ -17,4 +17,4 @@ steps:
   
 - script: |
     npm install botdispatch
-  displayName: 'Run a multi-line script'
+  displayName: 'RunNPM'
